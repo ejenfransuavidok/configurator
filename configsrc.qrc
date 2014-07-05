@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/com_port.png</file>
+        <file>images/address.png</file>
+        <file>images/registers.png</file>
+        <file>images/protocol.png</file>
+        <file>images/cycle.png</file>
+        <file>images/switch.png</file>
+        <file>images/chip3.png</file>
+        <file>images/chip5.png</file>
+        <file>images/password.png</file>
+        <file>images/U.png</file>
+        <file>images/I.png</file>
+        <file>images/P.png</file>
+        <file>images/Q.png</file>
+        <file>images/S.png</file>
+        <file>images/code.png</file>
+    </qresource>
+</RCC>
